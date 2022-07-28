@@ -1,5 +1,6 @@
-package Exceptions;
+package Exceptions.test;
 
+import Exceptions.main.ExceptionUserRegistration;
 import org.junit.jupiter.api.Test;
 import org.testng.Assert;
 
